@@ -31,6 +31,8 @@ Para cada estrato, uma amostra aleatória é selecionada para gerar a amostra ge
 Uma vez definida a amostra, precisamos encontrar a melhor forma de efeturar as perguntas adequadas ao problema que desejamos
 solucionar. 
 
+IMPORTANTE: inserir questões de filtragem antes do questionário!
+
 Vamos verificar que a mesma pergunta pode ser respondida de formas diferentes, de acordo com aquilo que se deseja
 investigar.
 
